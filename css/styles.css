@@ -679,8 +679,7 @@ a {
   border-color: var(--accent-color);
   outline: none;
 } */
-.footer-form textarea:focus,
-.footer-form textarea:hover,
+
 .form-field input:hover,
 .form-field input:hover ~ .icon-form,
 .form-field input:focus,
