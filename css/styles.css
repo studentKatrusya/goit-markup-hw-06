@@ -612,7 +612,7 @@ a {
   border: 1px solid rgba(0, 0, 0, 0.1);
   cursor: pointer;
   outline: none;
-  transition: fill 250ms --text-white;
+  transition: fill 2500ms var(--timing-function);
   /* background-image: url(../images/icon-sprite/icon-close.svg);
   background-repeat: no-repeat;
   background-position: center; */
