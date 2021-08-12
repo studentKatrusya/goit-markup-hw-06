@@ -677,14 +677,17 @@ a {
 /* .form-field:focus-within > .icon-form {
   fill: var(--accent-color);
   border-color: var(--accent-color);
+  outline: none;
 } */
-
+.footer-form textarea:focus,
+.footer-form textarea:hover,
 .form-field input:hover,
 .form-field input:hover ~ .icon-form,
 .form-field input:focus,
 .form-field input:focus ~ .icon-form {
   fill: var(--accent-color);
   border-color: var(--accent-color);
+  outline: none;
 }
 .form-field textarea {
   width: 448px;
